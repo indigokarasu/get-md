@@ -4,7 +4,7 @@
 <img src="./assets/readme/hero.svg" width="100%" alt="A fast, lightweight HTML to Markdown converter optimized for LLM consumption. Uses proven parsing libraries to deliver clean, well-structured markdown with intelligent content extraction and noise filtering.">
 </p>
 
-get-md — A fast, lightweight HTML to Markdown converter optimized for LLM consumption. Uses proven parsing libraries to deliver clean, well-structured markdown with intelligent content extraction and noise filtering.
+get-md - A fast, lightweight HTML to Markdown converter optimized for LLM consumption. Uses proven parsing libraries to deliver clean, well-structured markdown with intelligent content extraction and noise filtering.
 
 
 > One clear job, done well.
@@ -33,3 +33,7 @@ npx @nanocollective/get-md https://example.com -o output.md
 *get-md is part of the [OCAS Agent Suite](https://github.com/indigokarasu).*
 
 ---
+
+---
+## 📄 License
+MIT License — see `LICENSE` for details.
